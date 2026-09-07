@@ -1,0 +1,1634 @@
+{
+  "count": 2895,
+  "results": [
+    {
+      "created": "2026-08-17T09:45:20Z",
+      "longitude": -0.205832,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "salary_max": 70000,
+      "id": "5845008074",
+      "description": "Imagine yourself in a role where your professional growth and creativity are championed every step of the way. Opus is the UK\u2019s largest independent Managed Service Providers, recently ranked as \u201cWorld class\u201d by the Best Companies to work for awards. Be a key player in our Digital Transformation team As we continue our growth journey, we are looking for an experienced Business Analyst to help identify, shape and prioritise opportunities that improve operational performance, customer outcomes and\u2026",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5845008074?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=F9AC9FB9E27AB16EB9F8C27B73C1DE190E54B9E0",
+      "salary_min": 60000,
+      "latitude": 51.237598,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Opus Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODQ1MDA4MDc0In0.eUfFBGLZ_x9417uP84_nprZgNSdn-ORsDU1LtJLUwIw",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Reigate"
+        ],
+        "display_name": "Reigate, Surrey"
+      }
+    },
+    {
+      "created": "2026-07-15T13:35:53Z",
+      "longitude": -0.139134,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Analyst - Remote",
+      "id": "5801149560",
+      "description": "About The Role FDM is a global business and technology consultancy seeking a Business Analyst with Active SC to work for our client within the public sector. This is initially a 6-month contract with the potential to extend and will be a remote role with occasional travel into London or Manchester. We are seeking a Business Analyst who will play a critical role in translating business needs into clearly defined, actionable requirements that drive successful technical implementation. This role s\u2026",
+      "salary_max": 52593.01,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5801149560?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=9A92F8221A00859F68071AB16A6890D9209DF16B",
+      "salary_min": 52593.01,
+      "latitude": 51.503378,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "FDM Group"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTE0OTU2MCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.18CXlt8A1L2FD2QENprmu84drpx5ZbY_VWyg_biXcvs",
+      "contract_type": "contract",
+      "contract_time": "full_time"
+    },
+    {
+      "longitude": -4.25596,
+      "created": "2026-07-15T13:35:53Z",
+      "title": "Senior Business Analyst",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5801149531?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=9FE6E0304E847FD0A1BA777A543F923FA3B91295",
+      "latitude": 55.86026,
+      "salary_min": 47240.56,
+      "id": "5801149531",
+      "description": "About The Role FDM is a global business and technology consultancy seeking a Business Analyst to work for our client within the Financial Services sector. This is initially a contract opportunity with strong potential for extension and will be a hybrid role based in Glasgow or Cheshire. Our client is looking for an experienced Business Analyst to support a major business transformation programme, helping define and implement retention and archive processes associated with the transition of crit\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 47240.56,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ],
+        "display_name": "Glasgow, Scotland"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODAxMTQ5NTMxIn0.-DULaWpFTfuumdr9xwf4HVZ3fkdK1SD8l8LOzFG2JH0",
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "company": {
+        "display_name": "FDM Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Ntt Data",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MzU4NjQ2MyIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.-H_jYqU7dcxZJD8zoXTgGSkiRM1GxL0gmbcXb6iO0H4",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "salary_max": 57140.1,
+      "salary_is_predicted": "1",
+      "id": "5863586463",
+      "description": "As a Data Business Analyst at NTT DATA in London, you will play a pivotal role in delivering data-driven business solutions across sectors such as telecoms, media, banking, insurance, retail, energy, and public sector. The position requires at least 5 years\u2019 experience in data, consulting, or analytics, with expertise in data modelling, SQL, Hive, Pig, Python, R, and data visualisation tools like PowerBI, Qlik, and Tableau. You will collaborate with clients and internal teams, manage data proje\u2026",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5863586463?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=1F1D3FFEEEBA331F28760EB86DC2DE0FDA22FA8B",
+      "latitude": 51.503378,
+      "salary_min": 57140.1,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Data Business Analyst",
+      "created": "2026-09-01T01:36:38Z",
+      "longitude": -0.139134
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3NDA1MjU2MyIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.L__E9B1zYaWOObeMa1SflkSzG81FezkN57EJe6vclgY",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Rightmove"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5874052563?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=862A38B814CA3923448E843E35A954B0997B5AD5",
+      "latitude": 51.503378,
+      "salary_min": 57869.64,
+      "salary_max": 57869.64,
+      "salary_is_predicted": "1",
+      "id": "5874052563",
+      "description": "Our vision is to give everyone the belief they can make their move. We aim to make moving simpler, by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen. We\u2019re home to the UK\u2019s largest choice of properties and are the go-to destination for millions of people planning their next move, reading the latest industry news, or just browsing what\u2019s on the market. Location: London - Hybrid (2 Days) Reports to: Business Architec\u2026",
+      "title": "Senior Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": -0.139134,
+      "created": "2026-09-07T12:28:35Z"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Analysts",
+      "created": "2026-08-26T12:42:54Z",
+      "longitude": -0.139134,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anson Mccade"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1Njc3MDYzNCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.zWBssnlrVORAwvLzfO_Zs4rFKxwKVg8Cl0YbQxOz7Pw",
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "id": "5856770634",
+      "description": "\u00a365,000.00 GBP Hybrid WORKING Location: Central London, Greater London - United Kingdom Type: Permanent Location: London Working Model: Hybrid / Client Facing Industry: Change & Transformation Consulting We are supporting a leading global change and transformation consultancy in recruiting Business Analysts to join their London team. This is an opportunity to work across complex transformation programmes, helping clients translate strategic objectives into practical technology and business solu\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 66528.45,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5856770634?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=2ABB8D6621E5004AAED8E7FBC07D3FC51B06E783",
+      "latitude": 51.503378,
+      "salary_min": 66528.45
+    },
+    {
+      "longitude": -0.139134,
+      "created": "2026-08-07T14:15:54Z",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Senior Business Analyst",
+      "id": "5831982761",
+      "description": "Senior Business Analyst - London/Hybrid - Permanent - \u00a370,000 - \u00a380,000 base  bonus  benefits My client, a leading global financial services organisation is hiring a Senior Business Analyst to support high-profile business transformation and post-acquisition integration initiatives. This is a business-facing role with a strong focus on M&A integration, operating model design and end-to-end organisational change. We're looking for someone who understands how businesses operate and can help shape\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 71568.04,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5831982761?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=3EA536FC4565794BFDE1B8DC01E0168BB2834A34",
+      "salary_min": 71568.04,
+      "latitude": 51.503378,
+      "company": {
+        "display_name": "twentyAI",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODMxOTgyNzYxIn0.BCv2dMY8sVHuY6-Q6UK1dWuSPDOvdkFII-KETQwBljQ",
+      "contract_time": "full_time",
+      "contract_type": "permanent"
+    },
+    {
+      "latitude": 55.028274,
+      "salary_min": 74892.45,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5864677653?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=B98A70FEF6895F27C11AC6D506EA3F6816845A7C",
+      "salary_is_predicted": "1",
+      "salary_max": 74892.45,
+      "description": "\u00a355,000.00 GBP Hybrid WORKING Location: Newcastle Upon Tyne, North East - United Kingdom Type: Permanent Technical Business Analyst Location: Newcastle upon Tyne - Hybrid, 3 days per week onsite Salary: Up to \u00a355,000  Benefits Employment Type: Permanent Clearance: BPSS & SC eligibility required We are working with a leading global technology and transformation consultancy seeking Technical Business Analysts to join its growing Newcastle team. This is an opportunity to work across complex digita\u2026",
+      "id": "5864677653",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODY0Njc3NjUzIn0.ivhBbqiuuS0mKTiCvuJfE-V6XCSwnRFc3Fjen0eVnX4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North East England",
+          "Tyne & Wear",
+          "Newcastle Upon Tyne"
+        ],
+        "display_name": "Newcastle Upon Tyne, Tyne & Wear"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anson Mccade"
+      },
+      "created": "2026-09-01T15:26:33Z",
+      "longitude": -1.746207,
+      "title": "Technical Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "bp",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODcxMzM5MTMwIn0.TcSo3PuqGDPJsaoC5SUKzn9BqqjGX0Fnlat174KgPpg",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Charing Cross, Central London"
+      },
+      "title": "Senior Business Analyst",
+      "salary_is_predicted": "1",
+      "salary_max": 64607.27,
+      "description": "Entity: Technology Job Family Group: IT&S Group Job Description: About the role Are you looking for a career in tech that truly challenges in a learning environment? bp is currently looking for versatile individual to be part of our digital delivery team. As a business analyst, you will be a key member of a multi-functional team involved in all phases of our product release lifecycle that adopts and promotes the DevOps & SRE (Site Reliability Engineering) methodologies, responsible for requirem\u2026",
+      "id": "5871339130",
+      "salary_min": 64607.27,
+      "latitude": 51.507209,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5871339130?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=3B019F25BF875D052D97C2FAAEEC091B431D65FC",
+      "created": "2026-09-05T04:03:16Z",
+      "longitude": -0.128294
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "title": "Business Analyst AVP - Leading Bank",
+      "created": "2026-09-01T19:33:28Z",
+      "longitude": -0.139134,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hunter Bond"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NTE4Njk3NyIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.qyZxvzRDjRtbdPx26KEu94zhKO0ryYXeTGNnUEB0Hmg",
+      "contract_time": "full_time",
+      "id": "5865186977",
+      "description": "My Leading Banking client are looking for a talented and motivated Business Analyst to play a key role in supporting business case development, planning, control processes, impact evaluation and QA/testing. You'll identify impacts on the TOM, providing solutions to mitigate risks. You'll have the opportunity to work in a number of different business areas, including Financial Crime, Sales & Trading, Payments and Business Transformation. This is a high visibility and impactful role, working for \u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 58240.09,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5865186977?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=A2C2AF538F7A73920C829ED09CA28A3E637B2566",
+      "latitude": 51.503378,
+      "salary_min": 58240.09
+    },
+    {
+      "longitude": -0.139134,
+      "created": "2026-08-31T13:18:31Z",
+      "title": "Business Analyst (Agile Products Team)",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_min": 71915.88,
+      "latitude": 51.503378,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5862926825?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=C70044E19B2BF3D14E50BC25704D10C02F1C185A",
+      "description": "\u00a3\u00a345,000 - \u00a360,000 GBP Bonus Hybrid WORKING Location: Manchester/Bristol , Central London, Greater London - United Kingdom Type: Permanent We're looking for a Senior Business Analyst to partner with senior stakeholders, shape business solutions, and drive successful delivery across high-profile change initiatives. This is an opportunity to work on challenging projects where you'll influence strategy, improve business processes, and bridge the gap between business and technology. What You'll Be \u2026",
+      "id": "5862926825",
+      "salary_max": 71915.88,
+      "salary_is_predicted": "1",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODYyOTI2ODI1In0.bH1FS-kC_bSheBOBIfBkjvQih7KnCN5ddtobP1lairU",
+      "company": {
+        "display_name": "Anson Mccade",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Senior Business Analyst - Albany Beck",
+      "longitude": -4.25596,
+      "created": "2026-08-20T17:48:45Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Albany Beck"
+      },
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTg2NDg4MCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.unm1cYTrMdQNlBVnJzVP617WvWTQqNf16lUXLRQfutE",
+      "location": {
+        "display_name": "Glasgow, Scotland",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "1",
+      "salary_max": 49457.66,
+      "description": "Senior Business Analyst Company: Albany Beck Location: Glasgow (Hybrid) Engagement: Permanent Client Industry: Corporate Banking About Albany Beck Albany Beck is a Management Consultancy focused on delivering specialist transformation solutions to Financial Services clients. We combine deep industry expertise with modern delivery practices, enabling clients to scale effectively while offering meaningful, long\u2011term career development for our people. Joining Albany Beck means being part of a cons\u2026",
+      "id": "5849864880",
+      "salary_min": 49457.66,
+      "latitude": 55.86026,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5849864880?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=F0906B1DFC40E3FC023041B5AD967634DDA2AAA8"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5864040595?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=1EFDF604EA4EFEC1B1EAF12731EE0A9C6C5DBF58",
+      "latitude": 51.415933,
+      "salary_min": 62852.55,
+      "created": "2026-09-01T08:21:03Z",
+      "longitude": -0.417042,
+      "salary_is_predicted": "1",
+      "salary_max": 62852.55,
+      "id": "5864040595",
+      "description": "Entity: Technology Job Family Group: IT&S Group Job Description: Role Purpose: We are seeking a Senior Technical Business Analyst with strong hands-on Veson IMOS expertise and a proven business analysis core skills. You will bridge CCO business teams and technical delivery teams, translating commercial shipping needs into clear, testable requirements and practical, scalable solutions. The role covers IMOS and its connected application landscape across chartering, voyage operations and disbursem\u2026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODY0MDQwNTk1In0.isA7gvaZNnRpb4GilDlmoHqhlg2mmZeiPPFqelaamjY",
+      "title": "Senior Technical Business Analyst",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Sunbury-On-Thames"
+        ],
+        "display_name": "Sunbury-On-Thames, Surrey"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "bp"
+      }
+    },
+    {
+      "created": "2026-07-16T13:49:16Z",
+      "salary_min": 49518.26,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5802868849?utm_medium=api&utm_source=4331912e",
+      "description": "Overview Help shape pricing and market access decisions for the world's leading pharmaceutical companies. At Global Pricing Innovations (GPI) , we're passionate about helping pharmaceutical companies make better pricing and market access decisions through data, technology and expert insight. As we continue to grow, we're looking for ambitious Business Analysts to join our Mumbai team. Whether you're looking to take the next step in your career or already have significant experience, we'd love t\u2026",
+      "id": "5802868849",
+      "salary_max": 49518.26,
+      "salary_is_predicted": "1",
+      "location": {
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Business Analyst / Senior Business Analyst",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODAyODY4ODQ5In0.88nlNpFvtRmhwBQZtjyVyBqeilYLuBEpnRirNhIfh9Y",
+      "company": {
+        "display_name": "Global Pricing Innovations",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_max": 57791.65,
+      "salary_is_predicted": "1",
+      "description": "Are you looking for an exciting opportunity to be a leader within a highly successful global payroll services business? Are you an innovative and experienced Business Systems Analyst? Are you looking to take your career to the next level by driving success through our values of Respect, Integrity, Teamwork, Accountability, Diversity and Community? Do you have a strong work ethic, global mindset and the desire to help build a great culture? Vistra iiPay is a high growth, innovative company, base\u2026",
+      "id": "5854394826",
+      "salary_min": 57791.65,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5854394826?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=E2B102D08AB7BF7E7DFF96AFFDFFFE47D19EB5D4",
+      "created": "2026-08-24T15:08:51Z",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Vistra - Property Management"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDM5NDgyNiIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.RneAF6a5E65Qk9E3RGWujuwQQsp6N99mTU_LCzMcOIo",
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      },
+      "title": "Business Systems Analyst"
+    },
+    {
+      "id": "5840002500",
+      "description": "Business Analyst - (Hybrid Working) 9-month Fixed Term Contract Overview: Join a growing financial services organisation undergoing a significant period of Finance and Technology transformation. They are looking for an experienced Business Analyst to work with key stakeholders across Finance, Data and Technology, driving complex change and shaping future-proof solutions across the business. The Role: Are you a proven Business Analyst with strong Finance Change experience looking to join an exci\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 56883.36,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5840002500?utm_medium=api&utm_source=4331912e",
+      "latitude": 51.503378,
+      "salary_min": 56883.36,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Oliver James Associates"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDAwMjUwMCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.O_1JePAdi9rv_G_1XtjAZQmhWXDUOKj0tGH-1Tk3M0Q",
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "created": "2026-08-13T08:58:33Z",
+      "longitude": -0.139134,
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "title": "Business Analyst"
+    },
+    {
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-03T02:31:32Z",
+      "longitude": -0.846093,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODY4MDk5MTcyIn0.983_7IfwNNrllmu59zMczwPu19Q1Od9uEItlxVXUBgg",
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "East Midlands, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Baltimore"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5868099172?utm_medium=api&utm_source=4331912e",
+      "latitude": 52.934907,
+      "salary_min": 117000,
+      "salary_is_predicted": "0",
+      "salary_max": 117000,
+      "id": "5868099172",
+      "description": "Business Analyst - Children's Services Initial 2\u20133 Month Contract Immediate Start Required \u00a3450 per day Inside IR35 (via umbrella) Midlands - Hybrid Working CVs are being reviewed immediately and interviews are taking place straight away. Are you an experienced Children's Services Business Analyst looking to make an immediate impact on a high-profile transformation programme within Children's Services? This is an exciting opportunity to play a key role in implementing a new operating model, wor\u2026"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NzY3NjUzOSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.GoHMwnhwy9qTapMB3tADczeS1JqnS__eYRNRGru_dhc",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "title": "Business Analyst",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LGC Group"
+      },
+      "salary_min": 41862.52,
+      "latitude": 51.503378,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5847676539?utm_medium=api&utm_source=4331912e",
+      "created": "2026-08-19T03:10:34Z",
+      "longitude": -0.139134,
+      "salary_max": 41862.52,
+      "salary_is_predicted": "1",
+      "description": "Job Description Join BRCGS as a Business Analyst and help shape digital products, influence product strategy, solve meaningful business challenges and play a visible role in delivering innovative solutions that support food safety, quality and supply chain confidence worldwide. Working with product owners, software engineers, QA specialists and business stakeholders, the successful candidate will uncover business challenges, identify opportunities for improvement and help create products that d\u2026",
+      "id": "5847676539"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODYwMDQ4MTEzIn0.uSCrgfMau16megMUyfAf2wwF8XUU7kdpnW0KDlNBIqc",
+      "contract_type": "contract",
+      "contract_time": "full_time",
+      "title": "Business Analyst",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Shropshire",
+          "Telford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Telford, Shropshire"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Experis UK"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5860048113?utm_medium=api&utm_source=4331912e",
+      "salary_min": 104000,
+      "created": "2026-08-28T21:14:13Z",
+      "salary_max": 119600,
+      "salary_is_predicted": "0",
+      "id": "5860048113",
+      "description": "Business Analyst Rate: \u00a3400 - \u00a3460 Clearance Required:SC Clearance Duration:6 months Location: Telford 2 days - but location is flexible Job Description: Business Analyst required to support Government Gateway work and Fraud Prevention Centre work. This is an exciting opportunity to help take on some critical national infrastructure work that is high priority for HMRC and Government. Government Gateway are looking for an E2E Business Analyst to support the Government Gateway delivery of many di\u2026"
+    },
+    {
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1Njg4NDcwMiIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.MmpfQzPmP_HDxO3CS9egRV8sjHsqixp-iWKPxFxzssg",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "The City"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The City, Central London"
+      },
+      "title": "Business Analyst",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Robert Half"
+      },
+      "salary_min": 64772.86,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5856884702?utm_medium=api&utm_source=4331912e",
+      "created": "2026-08-26T15:16:52Z",
+      "salary_is_predicted": "1",
+      "salary_max": 64772.86,
+      "description": "Senior Business Analyst - Corporate Actuarial | London (Hybrid) Contract: Day-rate, inside IR35 Location: London (Hybrid) Function: Finance / Corporate Actuarial / Operations Programme: Back Office Transformation Robert Half is supporting a client whose major Back Office Transformation Programme is already well into the delivery phase, bringing Finance, Corporate Actuarial and Operations together around a new target operating model, technology landscape and processes. We're looking for a Senior\u2026",
+      "id": "5856884702"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "longitude": -0.538436,
+      "created": "2026-09-02T11:45:24Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Searchability  Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NjkyMjYwOCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.XdvHVVUHKpQWqCVHq_5b06Ew_bKSdYoItM_jtVHSiw8",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Lincolnshire",
+          "Lincoln"
+        ],
+        "display_name": "Lincoln, Lincolnshire"
+      },
+      "salary_is_predicted": "0",
+      "salary_max": 55000,
+      "description": "BUSINESS ANALYST (E-COMMERCE & MICROSOFT DYNAMICS 365) \u00a345,000 - \u00a355,000 Lincolnshire - Office-based Dynamics 365 / E-Commerce / Digital Transformation daniel.massey@searchability.com THE ROLE An award-winning digital transformation consultancy in Lincolnshire is looking for an experienced Business Analyst to support a major, high-profile transformation programme spanning e-commerce platforms and Microsoft Dynamics 365. You'll confidently bridge the gap between business stakeholders and technic\u2026",
+      "id": "5866922608",
+      "latitude": 53.234901,
+      "salary_min": 45000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5866922608?utm_medium=api&utm_source=4331912e"
+    },
+    {
+      "description": "Location: Newcastle (5 days onsite or willingness to relocate) About the Opportunity If you have 2 years of experience as a Business Analyst and are looking to take the next step in your career, this could be a great opportunity for you. As a Business Analyst, you\u2019ll join a collaborative team where you\u2019ll continue to develop your expertise through meaningful project work, ongoing mentoring, and structured support from an experienced manager. This is a fantastic opportunity for someone analytica\u2026",
+      "id": "5737689522",
+      "salary_max": 43496.6,
+      "salary_is_predicted": "1",
+      "salary_min": 43496.6,
+      "latitude": 55.028274,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5737689522?utm_medium=api&utm_source=4331912e",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": " nology"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Newcastle Upon Tyne, Tyne & Wear",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North East England",
+          "Tyne & Wear",
+          "Newcastle Upon Tyne"
+        ]
+      },
+      "contract_type": "contract",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNzY4OTUyMiIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.0JrhFSPka9EpTmpFn_NevbPApGCuD4_9wO5J1CBWuKw",
+      "longitude": -1.746207,
+      "created": "2026-05-22T15:08:28Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst"
+    },
+    {
+      "longitude": -0.139134,
+      "created": "2026-06-19T15:34:39Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "salary_max": 85000,
+      "salary_is_predicted": "0",
+      "description": "Hamiltonian Dynamics is a growing technology company working across Defence and Cyber Security, delivering software solutions for high-assurance environments. With teams based in Gloucestershire, Manchester, and London, we are expanding our analysis capability and are looking for Business Analysts to join us. Requirements As a Business Analyst at Hamiltonian Dynamics, you will work with stakeholders, product teams, and engineers to understand business needs and translate them into clear, action\u2026",
+      "id": "5769453745",
+      "latitude": 51.503378,
+      "salary_min": 40000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5769453745?utm_medium=api&utm_source=4331912e",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Hamiltonian Dynamics",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2OTQ1Mzc0NSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.zjso8EffrupVm_gBxzRxT7h2G5EMjokDLESxpXvvGbQ",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Prestwick, Newcastle Upon Tyne",
+        "area": [
+          "UK",
+          "North East England",
+          "Tyne & Wear",
+          "Newcastle Upon Tyne",
+          "Prestwick"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Business Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODcwNzk3NzE5In0.MQOv6ThFgVeLJit43BPmwE-7KSF9MbHqGfq7QP2ca1o",
+      "company": {
+        "display_name": "Infotel UK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-04T17:12:34Z",
+      "longitude": -1.70729,
+      "latitude": 55.046799,
+      "salary_min": 53137.65,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5870797719?utm_medium=api&utm_source=4331912e",
+      "description": "Prestwick for the first three months We are seeking a ServiceNow Business Analyst to bridge the gap between business stakeholders and technical delivery teams. In this role, you will analyse business processes, gather and refine functional requirements, and translate them into actionable ServiceNow user stories and technical configurations. You will drive workflow optimisation across modules like ITSM, CSM, or HRSD while keeping customisation aligned with platform best practice Key Responsibili\u2026",
+      "id": "5870797719",
+      "salary_is_predicted": "1",
+      "salary_max": 53137.65
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODcwNzk3NzIwIn0.W7ushULzzgizCyrVQlx8qfxnWasBMMHeFGSqX8rG_nM",
+      "location": {
+        "display_name": "Glasgow, Scotland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ]
+      },
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Infotel UK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 50362.71,
+      "latitude": 55.86026,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5870797720?utm_medium=api&utm_source=4331912e",
+      "created": "2026-09-04T17:12:34Z",
+      "longitude": -4.25596,
+      "salary_max": 50362.71,
+      "salary_is_predicted": "1",
+      "description": "Prestwick for the first three months We are seeking a ServiceNow Business Analyst to bridge the gap between business stakeholders and technical delivery teams. In this role, you will analyse business processes, gather and refine functional requirements, and translate them into actionable ServiceNow user stories and technical configurations. You will drive workflow optimisation across modules like ITSM, CSM, or HRSD while keeping customisation aligned with platform best practice Key Responsibili\u2026",
+      "id": "5870797720"
+    },
+    {
+      "company": {
+        "display_name": "Chroma Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "title": "Business Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODQyMTQ1NjM1In0.yPYESF-Uk-04BDtMhmm0Ez1rjb6G9T44m8SAgxUtzh8",
+      "description": "Senior Business Analyst Location: Central London Hybrid Working: 2-3 days per week Overview We are seeking an experienced Business Analyst to join an expanding Strategy and Technology Delivery team. You will collaborate closely with Programme Managers, technical teams and business stakeholders within a large, complex organisation. This is an excellent opportunity to contribute to the delivery of innovative technology solutions and support business transformation initiatives. The successful cand\u2026",
+      "id": "5842145635",
+      "salary_is_predicted": "0",
+      "salary_max": 75000,
+      "created": "2026-08-14T21:33:37Z",
+      "longitude": -0.139134,
+      "latitude": 51.503378,
+      "salary_min": 75000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5842145635?utm_medium=api&utm_source=4331912e"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "longitude": -1.7743,
+      "created": "2026-08-15T04:05:04Z",
+      "company": {
+        "display_name": "Rullion",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Solihull, West Midlands",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Solihull"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MjU5MDU5OCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0._JkqJfGCSXL4Pv99xgQVTDTrf4UYr_i26CAw0Clxch0",
+      "contract_time": "full_time",
+      "id": "5842590598",
+      "description": "We are seeking an experienced Business Analyst to join the team and support a range of IT and business change initiatives. The successful candidate will have a strong background in business analysis, with proven experience in requirements gathering, workshop facilitation, process mapping and stakeholder management. Experience within the electricity, energy or wider utilities sector would be highly desirable, particularly where the candidate has worked within a regulatory environment. Experience\u2026",
+      "salary_max": 46893.23,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5842590598?utm_medium=api&utm_source=4331912e",
+      "salary_min": 46893.23,
+      "latitude": 52.4147
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5857235699?utm_medium=api&utm_source=4331912e",
+      "salary_min": 156000,
+      "created": "2026-08-26T21:11:31Z",
+      "salary_max": 169000,
+      "salary_is_predicted": "0",
+      "id": "5857235699",
+      "description": "Business Analyst - Legal Case Management Software 6 Month Contract Rate: \u00a3600 - \u00a3650 per day (Inside IR35) Location: UK - Remote (Occasional travel to customer sites may be required) Skills: Legal or Case Management Software, Customer Discovery, Requirements Gathering, User Journey, Agile Delivery We are looking for an experienced Business Analyst to support the ongoing development of a legal case management software product. This is a highly customer-focused role. You will build relationships \u2026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NzIzNTY5OSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.QjCLhaW9GByg179FuJVodAneAy1I_xlZwaynF7Lpdso",
+      "contract_type": "contract",
+      "contract_time": "full_time",
+      "title": "Business Analyst",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "The City"
+        ],
+        "display_name": "The City, Central London"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Data Careers"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Analyst",
+      "created": "2026-06-30T17:31:25Z",
+      "longitude": -0.78066,
+      "company": {
+        "display_name": "Phoenix Software",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "North Yorkshire",
+          "York",
+          "Pocklington"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Pocklington, York"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjI2MDMyOSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.Aw75BodosfXDyeeqbMnfSk7UzLV6OJuK4L0ez5-jRyQ",
+      "description": "Phoenix enables digital transformation across the UK public sector, empowering organisations to innovate with cloud and hybrid infrastructures, data, AI, security and collaboration technologies. We are now hiring a Business Analyst to join our Systems Development team within the ITAM & FinOps division. This role will focus on identifying, analysing and documenting business and system requirements to support the development and enhancement of License Dashboard systems and customer-facing platfor\u2026",
+      "id": "5782260329",
+      "salary_is_predicted": "1",
+      "salary_max": 32475.58,
+      "latitude": 53.931,
+      "salary_min": 32475.58,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5782260329?utm_medium=api&utm_source=4331912e"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Zaizi"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTg3Nzc2NSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.6QYlcsCA8RIZAh80h2Pk7bLlKxqrDKvWhFPpWgtw0aQ",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "salary_max": 85000,
+      "description": "Zaizi are looking for a Senior Business Analyst with Natsec experience to help drive, lead and make a positive contribution to our customer\u2019s digital transformation programmes. At Zaizi, we thrive on solving complex challenges through creative thinking and the latest tools and tech. Our culture is inclusive, modern, friendly and innovative. We seek bright, positive thinking individuals with a can-do attitude. Our people enjoy challenging themselves to be the best at what they do \u2013 if that sound\u2026",
+      "id": "5789877765",
+      "salary_min": 70000,
+      "latitude": 51.503378,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5789877765?utm_medium=api&utm_source=4331912e",
+      "longitude": -0.139134,
+      "created": "2026-07-06T13:01:44Z"
+    },
+    {
+      "id": "5636025709",
+      "description": "About us Solirius Reply , part of the Reply Group , is a technology consultancy and digital transformation partner that helps organisations solve complex challenges through strategy, design, engineering, and delivery. We work closely with our clients to deliver secure, accessible, user-focused services that evolve with their needs. By combining deep technical expertise with people-centred design, we create solutions that deliver meaningful, lasting impact. Our consultants partner directly with \u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 49466.2,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5636025709?utm_medium=api&utm_source=4331912e",
+      "latitude": 51.503378,
+      "salary_min": 49466.2,
+      "company": {
+        "display_name": "Solirius Reply",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1NjM2MDI1NzA5In0.OKeMBZgDmS-kWcoNIkBBvY-J7QfFUXH_gHlZm0aSsMI",
+      "contract_time": "full_time",
+      "longitude": -0.139134,
+      "created": "2026-02-19T12:33:10Z",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Business Analyst"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5860558715?utm_medium=api&utm_source=4331912e",
+      "salary_min": 39881.69,
+      "latitude": 51.3923,
+      "created": "2026-08-29T03:18:20Z",
+      "longitude": -0.303,
+      "salary_max": 39881.69,
+      "salary_is_predicted": "1",
+      "id": "5860558715",
+      "description": "Job Description Build a deep understanding of the business, its products, processes and SOPs Identifying and documenting project objectives and benefits Eliciting, analysing, validating and documenting business requirements for various IT products Translating business needs into clear, prioritised requirements (user stories, acceptance criteria). Producing \u2018as-is\u2019 and \u2018to-be\u2019 process maps Creating wireframes and mock-ups to support the business requirements Liaising with the business and 3rd pa\u2026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MDU1ODcxNSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.RcnVIBVYw15apHnPfC0cmGuYbOv5Qqi-Oi0Gf9Thkrk",
+      "title": "Business Analyst",
+      "location": {
+        "display_name": "Surbiton, London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Surbiton"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Air Charter Service"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Motorola Solutions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTE3OTYyOSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.UenvfpzXkcqIjJuf7Yv7dnD2VrbbrnDG0hK2dvwqEhQ",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "title": "Business Analyst",
+      "salary_max": 50097.86,
+      "salary_is_predicted": "1",
+      "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We\u2019re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that\u2019s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer \u2026",
+      "id": "5789179629",
+      "salary_min": 50097.86,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5789179629?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=57164A8BBA34071D7F3F0EF1F3F644F296077775",
+      "created": "2026-07-05T15:32:23Z"
+    },
+    {
+      "created": "2025-11-22T15:27:43Z",
+      "salary_min": 49051.63,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5509085995?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=7D3806CD94D5D8FF9CF73ACE3CF9BDDC6332B1E6",
+      "description": "Who are we? Howden is a global insurance group with employee ownership at its heart. Together, we have pushed the boundaries of insurance. We are united by a shared passion and no-limits mindset, and our strength lies in our ability to collaborate as a powerful international team comprised of 23,000 employees spanning over 56 countries. People join Howden for many different reasons, but they stay for the same one: our culture. It\u2019s what sets us apart, and the reason our employees have been turn\u2026",
+      "id": "5509085995",
+      "salary_is_predicted": "1",
+      "salary_max": 49051.63,
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      },
+      "title": "Business Analyst",
+      "contract_type": "contract",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1NTA5MDg1OTk1In0.LIlsRCLvCnYbPixudBKYKMAKVQV8uLDeDUTwKEyQy6A",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Howden"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Howden"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjEzNjU2NCIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.foyhLtAixDNN1TotbtkI7oB1xuS17lMym5zw_TRVvkQ",
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "1",
+      "salary_max": 47323.71,
+      "description": "Who are we? Howden is a global insurance group with employee ownership at its heart. Together, we have pushed the boundaries of insurance. We are united by a shared passion and no-limits mindset, and our strength lies in our ability to collaborate as a powerful international team comprised of 24,000 employees spanning over 56 countries. People join Howden for many different reasons, but they stay for the same one: our culture. It\u2019s what sets us apart, and the reason our employees have been turn\u2026",
+      "id": "5812136564",
+      "salary_min": 47323.71,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5812136564?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=BEED10A6717A1D2E58F93C988CED67B0E0756026",
+      "created": "2026-07-23T10:35:58Z"
+    },
+    {
+      "created": "2026-09-05T16:42:39Z",
+      "longitude": -2.727541,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Business Analyst",
+      "id": "5872109795",
+      "description": "Job Title : Business Analyst (Adult Social Care Systems - Mosaic) Hours: 37 hours Salary: HC08 \u00a337,563 - \u00a342,123 per annum Contract: Fixed Term for 12 months (with a view to go permenant) Location: Plough Lane / Hybrid Working Closing date: 24/09/2026 The Role Are you an experienced Business Analyst looking to make a real difference in Adult Social Care? We are seeking a motivated and analytical Business Analyst to join our ASC Reporting Team, at Herefordshire Council, supporting the developmen\u2026",
+      "salary_is_predicted": "0",
+      "salary_max": 42123,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5872109795?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=26B670E9F7A2FF71E3A1559F6B75A6721F3697B5",
+      "latitude": 52.059573,
+      "salary_min": 37563,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hoople"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Herefordshire",
+          "Hereford",
+          "Tram Inn"
+        ],
+        "display_name": "Tram Inn, Hereford"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODcyMTA5Nzk1In0.pAiucrDj3qvEd99J7sDm3ioYQfr9WBI_5HtXizvy6x4",
+      "contract_type": "contract",
+      "contract_time": "part_time"
+    },
+    {
+      "title": "Business Analyst",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "longitude": -0.11247,
+      "created": "2026-07-23T10:37:17Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Farringdon"
+        ],
+        "display_name": "Farringdon, Central London"
+      },
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODEyMTM3MzIxIn0.c_wGo8IpEpBU9mYGZ1mz4AyjhxQ2qaIDeTVFDYxcZVI",
+      "company": {
+        "display_name": "Tes",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.520499,
+      "salary_min": 80000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5812137321?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=06552C75731F3128E20932C1374348B9EDB8F01C",
+      "description": "Job Title: Business Analyst Department: AI & Innovation Location: London Working Pattern: Hybrid, includes 3 days each week in the office Contract Type: Full time, permanent Salary: Up to \u00a380,000 per annum At Tes we are on a mission to power schools and enable great teaching worldwide, by delivering EdTech solutions that give educators the tools to succeed. From safeguarding and compliance to staff and pupil management, our innovative and flexible software and services help teachers and school \u2026",
+      "id": "5812137321",
+      "salary_max": 80000,
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-08-22T16:19:30Z",
+      "longitude": -2.294068,
+      "location": {
+        "display_name": "Brooklands, Sale",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Sale",
+          "Brooklands"
+        ]
+      },
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODUyNTc4NzMzIn0.g0j1zxl-bB5ti0p6v0ye7aRlf1gcCXmdbFewaYeao5I",
+      "company": {
+        "display_name": "Clear Business",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 53.424525,
+      "salary_min": 37000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5852578733?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=41193A7B48CC0E1B7BD5638C6311A8EC90CF001C",
+      "description": "We\u2019re looking for a Business Analyst to join our Data and Analytics team and help turn business questions into practical data and insight solutions. You\u2019ll work with stakeholders across Clear Business to understand what they need, shape clear requirements, and support solutions that improve decision-making and business performance. As a key link between business stakeholders and agile delivery teams, you\u2019ll help translate business needs into data-driven solutions that deliver measurable value, \u2026",
+      "id": "5852578733",
+      "salary_max": 46300,
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Business Analyst - SC Cleared, Contract Ncounter is supporting a growing technology consultancy with an SC Cleared Business Analyst contract, working on a complex UK public sector programme. This is a hands-on delivery role, focused on stakeholder engagement, structured analysis and taking potential solutions through evaluation, trial and proof of concept. Key experience: \u2022 Active SC Clearance \u2022 Business Analysis across complex UK public sector programmes \u2022 Designing and facilitating stakeholde\u2026",
+      "id": "5855364431",
+      "salary_max": 59804.69,
+      "salary_is_predicted": "1",
+      "created": "2026-08-25T13:39:40Z",
+      "salary_min": 59804.69,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855364431?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=F11602B7766B7AB37F1C2B176323A5AD86C2ADCB",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ncounter"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "title": "Business Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1MzY0NDMxIn0.6CWfFlIatVGbtSrA_gSvh8HDCWFVvItRmVlNjp-1sQ0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1NjgyNTA2In0.6ClRnWsBrN_u8T8jbL-fUBkjX2fmaN94ybMICitEGv0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Leicestershire",
+          "Leicester"
+        ],
+        "display_name": "Leicester, Leicestershire"
+      },
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Wallace Hind Selection",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.6348,
+      "salary_min": 43319.79,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855682506?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=B7D24F780C38786632F02479AB92D72F95019BDB",
+      "created": "2026-08-25T19:35:29Z",
+      "longitude": -1.12952,
+      "salary_is_predicted": "1",
+      "salary_max": 43319.79,
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "id": "5855682506"
+    },
+    {
+      "title": "Business Analyst",
+      "location": {
+        "display_name": "Rugby, Warwickshire",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Warwickshire",
+          "Rugby"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTY4MjUwNyIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.wUPN8hkVKgN3EImhi9Xs9CmxliPGefRj2t0TBg0ZJdE",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Wallace Hind Selection"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-08-25T19:35:29Z",
+      "longitude": -1.26174,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855682507?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=3E6B1B62B68493736354D77A58FEF76E87A55E7A",
+      "salary_min": 43142.06,
+      "latitude": 52.373199,
+      "id": "5855682507",
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "salary_max": 43142.06,
+      "salary_is_predicted": "1"
+    },
+    {
+      "id": "5855682508",
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 42895.61,
+      "created": "2026-08-25T19:35:29Z",
+      "longitude": -0.468044,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855682508?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=9289128E19566045755FCF937C344D5C4647256F",
+      "salary_min": 42895.61,
+      "latitude": 52.1357,
+      "company": {
+        "display_name": "Wallace Hind Selection",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "location": {
+        "area": [
+          "UK",
+          "Eastern England",
+          "Bedfordshire",
+          "Bedford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bedford, Bedfordshire"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1NjgyNTA4In0.Onr5VmLlFE86LBrys2KPnv7gePeXW7Hvx3BaZ6sNAEU"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Buckinghamshire",
+          "Milton Keynes"
+        ],
+        "display_name": "Milton Keynes, Buckinghamshire"
+      },
+      "title": "Business Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1NjgyNTA1In0.AVXY56RCCooS9HwP59T28L3MHJvdjoyLy09ugdqUY_E",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Wallace Hind Selection"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -0.7047,
+      "created": "2026-08-25T19:35:29Z",
+      "latitude": 52.042198,
+      "salary_min": 42989.07,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855682505?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=73A17C10265CE095915C98B4FA8E65BB076184D3",
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "id": "5855682505",
+      "salary_max": 42989.07,
+      "salary_is_predicted": "1"
+    },
+    {
+      "title": "Business Analyst",
+      "location": {
+        "display_name": "Northampton, Northamptonshire",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Northamptonshire",
+          "Northampton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1NjgyNTA0In0.AHasF-LoVtcPfsUD6ZvDuVuyJx7JiH6VJNZQ89y0DvU",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Wallace Hind Selection"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-08-25T19:35:29Z",
+      "longitude": -0.897391,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855682504?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=0BB51F8AE0B007F9BD75C9D1A9400DB7BB19EE83",
+      "salary_min": 43500.96,
+      "latitude": 52.2369,
+      "id": "5855682504",
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 43500.96
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTMzOTk5NSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.UQC_QDDHw1mCibdn16BAedyWmlFSyTWzx48XjvIz5SE",
+      "location": {
+        "display_name": "Banbury, Oxfordshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Oxfordshire",
+          "Banbury"
+        ]
+      },
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Wallace Hind Selection"
+      },
+      "latitude": 52.060001,
+      "salary_min": 45559.14,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855339995?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=B00B63C646D51B8FE361CCDA170314A8756C50F8",
+      "longitude": -1.34045,
+      "created": "2026-08-25T13:34:37Z",
+      "salary_is_predicted": "1",
+      "salary_max": 45559.14,
+      "description": "With global reach and a thirst for innovation, we need to be precise in market focus and pricing. We are looking for a data driven, commercially focussed Pricing Manage, Business Analyst or Product Manager to play a key role in collaborating with our sales, purchasing, operations and customer departments. BASIC SALARY: \u00a345,000 - \u00a355,000 BENEFITS: \u00b7 Bonus \u00b7 Pension \u00b7 Holidays LOCATION: Flexible, based in Northampton office but with hybrid flexibility as applicable COMMUTABLE LOCATIONS: Northampt\u2026",
+      "id": "5855339995"
+    },
+    {
+      "id": "5856821291",
+      "description": "Senior Business Analyst - Corporate Actuarial | London (Hybrid) Contract: Day-rate, inside IR35 Location: London (Hybrid) Function: Finance / Corporate Actuarial / Operations Programme: Back Office Transformation Robert Half is supporting a client whose major Back Office Transformation Programme is already well into the delivery phase, bringing Finance, Corporate Actuarial and Operations together around a new target operating model, technology landscape and processes. We're looking for a Senior\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 65495.45,
+      "created": "2026-08-26T13:43:53Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5856821291?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=35CEB4C71231117E58AEEC989B9F051E4E0DE290",
+      "salary_min": 65495.45,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Robert Half"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Business Analyst",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NjgyMTI5MSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.JPco4pKkwtSFfGQdxJTm3AS2OKvTm1IPKuu3lmBQv70",
+      "contract_type": "contract"
+    },
+    {
+      "longitude": -1.89359,
+      "created": "2026-08-25T13:36:50Z",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "1",
+      "salary_max": 45276.05,
+      "description": "Business Analyst Rate: \u00a3350 to \u00a3400 per day Contract: Interim We are seeking an experienced Business Analyst to support a major transformation portfolio within a large public sector organisation. This role will suit a confident and self-sufficient BA who is able to work independently across a varied portfolio of change activities, engaging with senior stakeholders, services and project teams to gather requirements, analyse complex information and support the delivery of meaningful business impr\u2026",
+      "id": "5855351372",
+      "salary_min": 45276.05,
+      "latitude": 52.483002,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855351372?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=CE679B9281B2631D774F5A7EFED10FD68EC3A281",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hays Specialist Recruitment Limited"
+      },
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTM1MTM3MiIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.xIx9YMbrnPZpymVaIzatV3Rnn0f79uydDk02rpMRdCY",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "display_name": "Birmingham, West Midlands"
+      }
+    },
+    {
+      "company": {
+        "display_name": "Bridge Recruitment UK Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "title": "Business Analyst",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birmingham, West Midlands"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2OTEyMDQwMSIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.IhoIHldIp_MjRectBjrVii50rnHNYmAy2G2KIUDWoQI",
+      "id": "5869120401",
+      "description": "Business Analyst - Product Marketing Hybrid Travel may be required once a month About the Role We are looking for a Business Analyst - Product Marketing to join a growing commercial team in Birmingham. This is an excellent opportunity for a recent graduate or experienced candidate with strong analytical and Excel skills who is looking to develop a career in product management, product marketing or commercial strategy. You will work closely with Product Managers, using data and market insight to\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 36675.98,
+      "longitude": -1.89359,
+      "created": "2026-09-03T16:34:24Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5869120401?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=0370EA8BE1ADB1EDB337BFD6D8F81FDBF87C4174",
+      "salary_min": 36675.98,
+      "latitude": 52.483002
+    },
+    {
+      "salary_min": 51089.65,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5855367718?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=0E7B2B2C61ED09C8C19C5986E540170959975453",
+      "created": "2026-08-25T13:40:28Z",
+      "salary_is_predicted": "1",
+      "salary_max": 51089.65,
+      "description": "Job Advertisement: Business Analyst Location: London (Hybrid) Contract Length: 6 months (Potential extension) Working Pattern: Full Time Our client, a leading organisation in the financial services sector, is seeking a highly skilled Business Analyst (BA) to join their team for a temporary engagement. This pivotal role will contribute significantly to the EMEA Trade Surveillance Uplift project, a strategic initiative aimed at enhancing the Firm's trade surveillance capabilities. Purpose of the \u2026",
+      "id": "5855367718",
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieFBkSnR3aXI4UkcwY29mbUw4Y1B0ZyIsImkiOiI1ODU1MzY3NzE4In0.uZnLBWCbnVDo-f_MocR28GquWExqj0NggiYjyyzAYMw",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "title": "Business Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Adecco",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "id": "5869120196",
+      "description": "Business Analyst Reference number: JR258066 Location: Hybrid - 2 days London office  3 days remote Working pattern: Full Time Contract Type: Permanent Number of roles: 1 Grade : IT5A Salary: \u00a351K - \u00a360K Per Annum We are looking for a Business Analyst to join our team. The Business Analyst acts as a vital conduit between business stakeholders and technical teams. The core focus is on conducting thorough 'As-Is' process discovery and mapping the revised processes that result from bespoke applicat\u2026",
+      "salary_is_predicted": "1",
+      "salary_max": 42486.37,
+      "created": "2026-09-03T16:34:22Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5869120196?se=xPdJtwir8RG0cofmL8cPtg&utm_medium=api&utm_source=4331912e&v=D0EE7EF263E70BE37A65C8A3C2A43CE942939F6E",
+      "salary_min": 42486.37,
+      "company": {
+        "display_name": "Kaplan",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Analyst",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2OTEyMDE5NiIsInMiOiJ4UGRKdHdpcjhSRzBjb2ZtTDhjUHRnIn0.BRGsxayjvaRv6qxvGhCJOlg35OYbAXEXmT_WN-iJBHs",
+      "contract_type": "permanent",
+      "contract_time": "full_time"
+    }
+  ],
+  "mean": 66240.31,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}
