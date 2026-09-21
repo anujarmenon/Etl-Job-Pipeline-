@@ -11,7 +11,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) workflow fro
 - **Python** (Pandas, Requests) - data extraction and cleaning
 - **SQL / SQLite** - data storage and querying
 - **Power BI** - data modelling, DAX measures, and dashboard visualization
-- **Git/GitHub** — version control
+- **Git/GitHub** - version control
 
 ## Pipeline Steps
 
