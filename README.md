@@ -23,7 +23,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) workflow fro
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Key Insights
 
@@ -38,7 +38,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) workflow fro
 - `load.py` - SQLite loading script
 - `query.py` - SQL analysis queries
 - `jobs.db` - SQLite database
-- `job_market_dashboard.pbix` - Power BI dashboard file
+- `Business_Analyst_Job_Market.pbix` - Power BI dashboard file
 - `dashboard.png` - Dashboard screenshot
 
 ## Author
